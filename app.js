@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-console.log("this line was added");
-=======
 console.log("Hello, World!");
 console.log("This is a sample JavaScript file.");
 // --- IGNORE ---
@@ -15,4 +12,3 @@ console.log(greet("Charlie"));
 function add(a, b) {
     return a + b;
 }
->>>>>>> 21cfb489813b968acc4d1f21c0269eacce00f102
